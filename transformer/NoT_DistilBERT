@@ -1,1 +1,2 @@
-The folder contains the pretrained NoT_DistilBERT, the notebook of the implementation and the fine tuned model with the classification head. 
+The folder contains the notebook of the implementation. 
+The model weights and the finetuned model could not be uploaded due to file size. 
